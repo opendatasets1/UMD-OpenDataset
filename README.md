@@ -5,7 +5,7 @@ are currently five user guides with links to their respective datasets
 available for public use.
 
 Each folder contains a .docx file (the Editable) and a .pdf file (the Preview)
-of each user guide. Within each user guide contains detailed information
+of each user guide. The "Editable" file is for downloading and making changes in Word. The "Preview" file is a copy of the newest "Editable" file and is used for viewing in GitHub. Within each user guide contains detailed information
 about the dataset as well as a link to it. In order to preview these
 documents it may be necessary to download them.
 
