@@ -5,9 +5,8 @@ are currently five user guides with links to their respective datasets
 available for public use.
 
 Each folder contains a .docx file (the Editable) and a .pdf file (the Preview)
-of each user guide. The "Editable" file is for downloading and making changes in Word. The "Preview" file is a copy of the newest "Editable" file and is used for viewing in GitHub. Within each user guide contains detailed information
-about the dataset as well as a link to it. In order to preview these
-documents it may be necessary to download them.
+of each user guide. The "Editable" file is for downloading and making changes in Word. The "Preview" file is a copy of the newest "Editable" file and is used for viewing in GitHub. Each of these user guides contain detailed information
+about the dataset as well as a link to it.
 
 ### [User Guide Testing and Change Management Process](https://github.com/brianm0424/UMD-OpenDataset/blob/main/User%20Guide%20Testing%20and%20Change%20Management%20Processes.pdf)
 This is our current version of the User Guide Testing and Change
