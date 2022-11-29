@@ -1,4 +1,4 @@
-﻿**User Guide Testing Process**
+#**User Guide Testing Process**
 
 1. Pull the current version of the Open Dataset Git repository 
 1. In the dataset’s folder, open its “Editable” document 
