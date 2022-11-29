@@ -1,7 +1,7 @@
 # The Open Dataset Repository
 
 This is the Open Dataset Project Repository. Within this repository there
-are currently five user guides with links to their respective datasets
+are user guides with links to their respective datasets
 available for public use.
 
 Each folder contains a .docx file (the Editable) and a .pdf file (the Preview)
