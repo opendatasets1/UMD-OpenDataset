@@ -16,8 +16,13 @@ This repository was created by students of the University of Maryland’s Colleg
 [OrganizedCrimeAndCorruption:](https://github.com/brianm0424/UMD-OpenDataset/blob/main/OrganizedCrimeAndCorruption_v2.0.pdf) This User Guide was created for data published by the Organized Crime and Corruption Reporting Project (OCCRP).
 
 
-# [User Guide Testing and Change Management Process](https://github.com/brianm0424/UMD-OpenDataset/blob/main/User%20Guide%20Testing%20and%20Change%20Management%20Processes.pdf)
-This is the current version of the User Guide Testing and Change
-Management process. To make any changes or to follow through with
-testing and updating the user guides, please follow the steps listed in this
-document.
+## Archive Folder: 
+
+This folder contains previous guides that have since been modified. 
+
+
+## User Guide Editing Folder:
+
+In this folder there are the current editable versions of the files. Please reference the User Guide Testing and Change Management process within to make modifications.
+
+[User Guide Testing and Change Management Process:](https://github.com/brianm0424/UMD-OpenDataset/blob/main/User%20Guide%20Editing/User%20Guide%20Testing%20and%20Change%20Management%20Processes.pdf) To make any changes or to follow through with testing and updating the user guides, please follow the steps listed in this document.
