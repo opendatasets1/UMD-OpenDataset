@@ -5,15 +5,15 @@ This repository was created by students of the University of Maryland’s Colleg
 
 ## What's in the guide: 
 
-[ClimateData](https://github.com/brianm0424/UMD-OpenDataset/blob/main/ClimateData_v2.0.pdf): This User Guide was created for Data.gov’s climate data catalog. 
+[ClimateData:](https://github.com/brianm0424/UMD-OpenDataset/blob/main/ClimateData_v2.0.pdf) This User Guide was created for Data.gov’s climate data catalog. 
 
-[CrimeData](https://github.com/brianm0424/UMD-OpenDataset/blob/main/CrimeData_v2.0.pdf): This User Guide was created for a collection of datasets from Data.gov that have a ‘crime’ tag and have been produced by local governments.
+[CrimeData:](https://github.com/brianm0424/UMD-OpenDataset/blob/main/CrimeData_v2.0.pdf) This User Guide was created for a collection of datasets from Data.gov that have a ‘crime’ tag and have been produced by local governments.
 
-[CriticalInfrastructure](https://github.com/brianm0424/UMD-OpenDataset/blob/main/CriticalInfrastructure_v2.0.pdf): This User Guide was created for a collection of datasets from Google’s Dataset Search that are related to Critical Infrastructure.
+[CriticalInfrastructure:](https://github.com/brianm0424/UMD-OpenDataset/blob/main/CriticalInfrastructure_v2.0.pdf) This User Guide was created for a collection of datasets from Google’s Dataset Search that are related to Critical Infrastructure.
 
-[DrugOverdoseDeaths](https://github.com/brianm0424/UMD-OpenDataset/blob/main/DrugOverdoseDeaths_v2.0.pdf): This User Guide was created regarding the VSRR Provisional Drug Overdose Death Counts (Vital Statistics Rapid Release) Dataset.
+[DrugOverdoseDeaths:](https://github.com/brianm0424/UMD-OpenDataset/blob/main/DrugOverdoseDeaths_v2.0.pdf) This User Guide was created regarding the VSRR Provisional Drug Overdose Death Counts (Vital Statistics Rapid Release) Dataset.
 
-[OrganizedCrimeAndCorruption](https://github.com/brianm0424/UMD-OpenDataset/blob/main/OrganizedCrimeAndCorruption_v2.0.pdf): This User Guide was created for data published by the Organized Crime and Corruption Reporting Project (OCCRP).
+[OrganizedCrimeAndCorruption:](https://github.com/brianm0424/UMD-OpenDataset/blob/main/OrganizedCrimeAndCorruption_v2.0.pdf) This User Guide was created for data published by the Organized Crime and Corruption Reporting Project (OCCRP).
 
 
 ### [User Guide Testing and Change Management Process](https://github.com/brianm0424/UMD-OpenDataset/blob/main/User%20Guide%20Testing%20and%20Change%20Management%20Processes.pdf)
