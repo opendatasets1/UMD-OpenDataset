@@ -7,7 +7,7 @@ This repository was created by students of the University of Maryland’s Colleg
 
 [ClimateData](https://github.com/brianm0424/UMD-OpenDataset/blob/main/ClimateData_v2.0.pdf): This User Guide was created for Data.gov’s climate data catalog. 
 
-[CrimeData[(https://github.com/brianm0424/UMD-OpenDataset/blob/main/CrimeData_v2.0.pdf): This User Guide was created for a collection of datasets from Data.gov that have a ‘crime’ tag and have been produced by local governments.
+[CrimeData](https://github.com/brianm0424/UMD-OpenDataset/blob/main/CrimeData_v2.0.pdf): This User Guide was created for a collection of datasets from Data.gov that have a ‘crime’ tag and have been produced by local governments.
 
 [CriticalInfrastructure](https://github.com/brianm0424/UMD-OpenDataset/blob/main/CriticalInfrastructure_v2.0.pdf): This User Guide was created for a collection of datasets from Google’s Dataset Search that are related to Critical Infrastructure.
 
