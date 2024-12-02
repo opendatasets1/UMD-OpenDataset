@@ -15,3 +15,6 @@ navigation:
 - text: Contributing
   internal: true
   url: docs/contributing.md
+- text: New Guide Template
+  internal: true
+  url: docs/new_guide_template.md
