@@ -8,3 +8,10 @@ include:
   - 'Current User Guides'
 exclude:
   - README.md
+navigation:
+- text: Home
+  internal: true
+  url: ./
+- text: Contributing
+  internal: true
+  url: docs/contributing.md
