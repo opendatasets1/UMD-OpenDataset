@@ -11,7 +11,7 @@ Click on the create branch button in order to create the new branch.
 ## Step 2 - Drafting the Edit file
 If you are editing an existing guide check the 'User Guide Editing' folder for a .docx file to see if an editable version of the particular user guide exsits. Although, beware that the editable doc may not be up to date with the current guide. Reference the current guide to see the most up to date revision. If a .docx file does not exist for the guide you want to edit, download the pdf locally from the website, and edit it as a word document.
 
-If you are starting a new guide, write the initial draft using word or google docs on your personal device. If you need a starting point for how to format the user guide reference [this template](./New%20Guide%20Template.md) or previous user guides for how to format your guide.
+If you are starting a new guide, write the initial draft using word or google docs on your personal device. If you need a starting point for how to format the user guide reference [this template](./new_guide_template.md) or previous user guides for how to format your guide.
 
 Once you are done writing your initial draft, and or making any changes. Upload the file to the editing folder within the branch that you have create. This can be done by clicking into the 'User Guide Editing' folder in git and hitting the 'Add File' button in the top right as can be seen in the image below.
 ![Upload Image](./__img/Screenshot%202024-12-02%20at%2010.52.23 AM.png)
