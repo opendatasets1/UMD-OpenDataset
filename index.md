@@ -3,4 +3,4 @@ Welcome to the landing page for the Open Dataset Repository. You can use this pa
 Want to contribute to the repostiory. Click [here] to navigate to our contributing guide to learn more.
 
 ### Open Dataset User Guides
-- [Climate Data Set](../Current%20User%20Guides/ClimateData_v2.0.pdf)
+- [Climate Data Set](./Current%20User%20Guides/ClimateData_v2.0.pdf)
