@@ -1,3 +1,5 @@
+# Open Dataset User Guide Repository
+
 ## About
 This repository was created by students of the University of Maryland’s College of Information Science for the purpose of storing pre-production, production, and archival user guides created for the Open Dataset Project. The Open Dataset Project is intended to develop user guides for open source datasets available online for researchers at The College of Information Science and UMD as a whole. The user guides provide information about the dataset content; an analysis of the capabilities of the data source (e.g. the business content of the data sets, search tools, the extent of access to the data.); and end user documentation for understanding, accessing and using the datasets. 
 
