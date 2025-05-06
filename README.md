@@ -27,6 +27,8 @@ Policing Equity Data: This User Guide was created for the datasets compiled by t
 
 Russia-Ukraine War Data: The User Guide was created utilizing the search term “War in Ukraine” on Google dataset search
 
+FAOSTAT Data: This User Guide was created for data published by the Food & Agriculture Organization's FAOSTAT collection.
+
 ## Archive Folder:
 This folder contains previous guides that have since been modified.
 

@@ -1,5 +1,6 @@
-# Process for Adding New Guides
+# [OUTDATED AS OF May 2025. PLEASE IGNORE AND ADHERE TO UPLOADING PROCEDURES DEFINED IN ./docs/contributing.md - https://github.com/opendatasets1/UMD-OpenDataset/blob/main/docs/contributing.md]
 
+# Process for Adding New Guides
 Hi, 
 
 Thank you for contributing to the Open Data Set Repository. There are two different ways to add the current dataset into a markdown version for it to be added into the repository. If you are starting from scratch, it is recommended to use the New Guide Template file as a template for your guide. However, if you already have a guide that is written, that can also be ported over to markdown using its current format to be added to the current repository.
