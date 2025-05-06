@@ -1,4 +1,4 @@
-# [OUTDATED AS OF May 2025. PLEASE IGNORE AND ADHERE TO UPLOADING PROCEDURES DEFINED IN docs/contributing.md - https://github.com/opendatasets1/UMD-OpenDataset/blob/main/docs/contributing.md]
+# [OUTDATED AS OF May 2025. PLEASE IGNORE AND ADHERE TO UPLOADING PROCEDURES DEFINED IN ./docs/contributing.md - https://github.com/opendatasets1/UMD-OpenDataset/blob/main/docs/contributing.md]
 
 # Process for Adding New Guides
 Hi, 
