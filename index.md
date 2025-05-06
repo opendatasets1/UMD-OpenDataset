@@ -23,5 +23,5 @@ Want to contribute to the repostiory. Click [here](./docs/contributing.md) to na
 - [NYC Transportation Dataset](./Current%20User%20Guides/NYC_Transportation_Dec2024.pdf)
     - [NYC Transportation Excel Analysis](./misc/NYC%20Transportion%20Dataset%20Analysis%20&%20Categorization.xlsx)
 - [UN FAOSTAT Data](./Current%20User%20Guides/FAOSTAT_Spring2025.pdf)
-    - [FAOSTAT Metadata Table](./misc/FAOSTAT%20File%20Metadata.xlsx)
+    - [FAOSTAT Domain Metadata Table](./misc/FAOSTAT%20File%20Metadata.xlsx)
 
